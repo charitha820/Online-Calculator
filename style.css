@@ -52,10 +52,10 @@ button:active{
 .equalTo:hover{
     background-color: green;
 }
-.Clear{
+.clearBtn{
     background-color: rgb(246, 58, 58);
 }
-.Clear:hover{
+.clearBtn:hover{
     background-color: red;
 }
 .operatorBtn{
